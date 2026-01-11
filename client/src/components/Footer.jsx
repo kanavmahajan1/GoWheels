@@ -86,7 +86,7 @@ const Footer = () => {
                   initial={{opacity:0}}
                    whileInView={{opacity:1}}
                  transition={{duartion:0.6 , delay:0.3}}
-            className="py-4 text-center text-sm md:text-base text-gray-500/80 -mt-5">Made with ❤️ by <a href="https://www.linkedin.com/in/manish-kumar-a53548249/ " className='font-semibold'>Manish Kumar</a></motion.p>
+            className="py-4 text-center text-sm md:text-base text-gray-500/80 -mt-5">Made with ❤️ by <a href="https://www.linkedin.com/in/kanav-gupta-347852340/" className='font-semibold'>Kanav Gupta</a></motion.p>
         </motion.div>
   )
 }
